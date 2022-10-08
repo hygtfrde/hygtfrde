@@ -12,6 +12,10 @@
 -- Crypto algorithms <br>
 -- Radio communication <br>
 -- Gaming <br>
+-- Linux <br>
+-- Raspberry Pi <br>
+-- Satellites <br>
+-- Binary math <br>
 
 - 🌱 I’m currently learning Python 3!
 
