@@ -5,10 +5,13 @@
 -- Data visualization <br>
 -- Three.js <br>
 -- React.js <br>
+-- Svelte.dev <br>
 -- TypeScript <br>
 -- CSS <br>
 -- 3D Modelling <br>
 -- Crypto algorithms <br>
+-- Radio communication <br>
+-- Gaming <br>
 
 - 🌱 I’m currently learning Python 3!
 
