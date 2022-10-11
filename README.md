@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @hygtfrde <br> 
-
--- I’m interested in: <br>
+👋 Hi, I’m @hygtfrde <br> 
+I’m interested in: <br>
 -- Web app development <br>
 -- Data visualization <br>
 -- Three.js <br>
